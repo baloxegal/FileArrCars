@@ -33,7 +33,6 @@ public class CreateFileArrCars {
 //		}
 //    	System.out.println(fileCars.exists());
 //    	System.out.println(fileCars.getName());
-//    	System.out.println(fileCars.getPath());
 //    	System.out.println(fileCars.getAbsolutePath());
     	
     	try {
